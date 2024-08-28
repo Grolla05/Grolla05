@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/Grolla05"></a>
     <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true&theme=transparent" media="(prefers-color-scheme: transparent)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true&theme=codeSTACKr" media="(prefers-color-scheme: codeSTACKr)"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true" />
   
