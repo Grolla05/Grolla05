@@ -29,4 +29,4 @@
 
 </br></br>
 
-![snake gif](https://github.com/Grolla05/Grolla05/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Grolla05/Grolla05/blob/output/github-contribution-grid-snake.gif)
