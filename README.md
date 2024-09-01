@@ -27,6 +27,6 @@
   <a href="https://ubuntu.com/download" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/Grolla05/Grolla05/b1ob/output/github-contribution-grid-snake-dark.svg)
+</br></br>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Grolla05&repo=Grolla05&theme=react)](https://github.com/Grolla05/Grolla05)
+![snake gif](https://github.com/Grolla05/Grolla05/blob/output/github-contribution-grid-snake-dark.svg)
