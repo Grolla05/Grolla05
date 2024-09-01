@@ -26,3 +26,7 @@
   <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   <a href="https://ubuntu.com/download" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white target="_blank"></a>
 </div>
+
+![snake gif](https://github.com/Grolla05/Grolla05/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Grolla05&repo=Grolla05&theme=react)](https://github.com/Grolla05/Grolla05)
