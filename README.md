@@ -1,8 +1,8 @@
 
 
 # My GitHub Stats 📊:
+![](https://komarev.com/ghpvc/?username=Grolla05&style=plastic)
 <div>
-  ![](https://komarev.com/ghpvc/?username=Grolla05&style=plastic)
   <a href="https://github.com/Grolla05"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Grolla05 github stats" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grolla05&layout=compact&theme=codeSTACKr&hide_border=true" /></a> 
