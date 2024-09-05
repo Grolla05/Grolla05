@@ -36,7 +36,7 @@
 - 🎓 I’m currently studying on Pontifical Catholic University of Campinas.
 - 🖥️ I'm currently graduating in Computer Engineering.
 - 🗣️ Pronouns: he/him.
-</br>
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1)
 
 # Commits
