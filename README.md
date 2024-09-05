@@ -1,4 +1,5 @@
 ## Ola sou o Felipe Grolla
+![](https://komarev.com/ghpvc/?Grolla05=your-github-Grolla05)
 
 # My GitHub Stats
 <div>
@@ -29,7 +30,7 @@
 </div>
 
 # More About Me
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&unique={true|1|on|yes})
 
 </br>
 <picture align="center">
