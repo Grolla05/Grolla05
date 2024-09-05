@@ -1,9 +1,4 @@
-## Ola sou o Felipe Grolla
 ![](https://komarev.com/ghpvc/?username=Grolla05&style=plastic)
-- 🇧🇷 I’m brazilian.
-- 🎓 I’m currently studying on Pontifical Catholic University of Campinas.
-- 🖥️ I'm currently graduating in Computer Engineering.
-- 🗣️ Pronouns: he/him.
 
 # My GitHub Stats 📊:
 <div>
@@ -35,6 +30,11 @@
 </div>
 
 # More About Me
+- 🇧🇷 I’m brazilian.
+- 🧑🏻 I've 19 years
+- 🎓 I’m currently studying on Pontifical Catholic University of Campinas.
+- 🖥️ I'm currently graduating in Computer Engineering.
+- 🗣️ Pronouns: he/him.
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1)
 
 # Commits
