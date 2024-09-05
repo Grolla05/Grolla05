@@ -35,7 +35,9 @@
 </div>
 
 # More About Me
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1)
+
+# Commits
 
 </br>
 <picture align="center">
