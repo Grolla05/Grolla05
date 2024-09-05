@@ -1,13 +1,17 @@
 ## Ola sou o Felipe Grolla
-![](https://komarev.com/ghpvc/?Grolla05=your-github-Grolla05)
+![](https://komarev.com/ghpvc/?username=Grolla05&style=plastic)
+- 🇧🇷 I’m brazilian.
+- 🎓 I’m currently studying on Pontifical Catholic University of Campinas.
+- 🖥️ I'm currently graduating in Computer Engineering.
+- 🗣️ Pronouns: he/him.
 
-# My GitHub Stats
+# My GitHub Stats 📊:
 <div>
   <a href="https://github.com/Grolla05"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Grolla05 github stats" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grolla05&layout=compact&theme=codeSTACKr&hide_border=true" /></a> 
 </div>
-
+<h1>💽 Programming portifolio</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Grolla-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Grolla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
