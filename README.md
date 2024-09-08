@@ -1,3 +1,6 @@
+![Header](./repo/github-header-image.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=50&duration=4500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=I'm+a+studying+computer+engineering;I'm+from+brazil)](https://git.io/typing-svg)
+
 # 📊 My GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Grolla05&style=plastic)
 <div>
