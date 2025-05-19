@@ -1,27 +1,39 @@
-name: Generate Snake Animation
+name: Generate snake animation
 
 on:
-  schedule:
-    - cron: '0 */1 * * *' # Executa a cada 1 horas
-  workflow_dispatch: # Permite executar o workflow manualmente
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: Grolla05
-          outputs: output/github-contribution-grid-snake.svg
-          colorscheme: github-dark # Você pode escolher outros temas
+          github_user_name: ${{ github.repository_owner }}
+          outputs: output/snake.svg
+          palette: github-dark
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'output/github-contribution-grid-snake.svg'
+          add: 'output/snake.svg'
           message: 'Atualiza a animação da cobra'
+          branch: main # Certifique-se de commitar no branch correto
           signoff: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
