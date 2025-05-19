@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Felipe, and I'm an undergraduate student in control and automation engineering from Brazil.</h2>
+<h1 align="left">Hi 👋! My name is Felipe, and I'm an undergraduate student in control and automation engineering from Brazil.</h2>
 
 ###
 
-<p align="left">📊 My GitHub Stats:</p>
+<h2 align="left">📊 My GitHub Stats:</h2>
 
 ###
 
@@ -20,8 +20,8 @@
 
 
 ###
-
-<p align="left">🚀 Programming portifolio (skills):</p>
+<br>
+<h2 align="left">🚀 Programming portifolio (skills):</h2>
 
 ###
 
@@ -72,8 +72,8 @@
 </div>
 
 ###
-
-<p align="left">📝 Connect with me:</p>
+<br>
+<h2 align="left">📝 Connect with me:</h2>
 
 ###
 
@@ -86,21 +86,21 @@
 </div>
 
 ###
-
+<br>
 <details>
   <summary><h1>👨 More About Me: </h1></summary>
   - 🇧🇷 I’m brazilian.</br>
   - 🧑🏻 I've 19 years</br>
   - 🎓 I’m currently studying on Pontifical Catholic University of Campinas.</br>
-  - 🖥️ I'm currently graduating in Computer Engineering.</br>
+  - 🖥️ I'm undergraduate in Control and Automation Engineering.</br>
   - 🗣️ Pronouns: he/him.</br>
   
   </br></br>![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1)
 </details>
 
 ###
-
-<p align="left">My Commits</p>
+<br>
+<h2 align="left">My Commits: </h2>
 
 ###
 
