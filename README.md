@@ -86,14 +86,3 @@
   
   </br></br>![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1)
 </details>
-
-###
-<br>
-<h2 align="left">My Commits: </h2>
-
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Grolla05/Grolla05/output/snake.svg" alt="Snake animation" />
-
-###
