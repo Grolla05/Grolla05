@@ -64,15 +64,7 @@
 <div id="stats" align="center">
   <h2>📊 Estatísticas</h2>
   <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Grolla05&layout=compact&langs_count=6&theme=dracula&v=1"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grolla05&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" />
   </div>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Grolla05&theme=dracula&hide_border=true&v=1" alt="streak graph" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grolla05&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" />
-</div>
