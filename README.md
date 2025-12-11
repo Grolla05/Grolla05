@@ -1,88 +1,78 @@
-<h1 align="left">Hi 👋! My name is Felipe, and I'm an undergraduate student in control and automation engineering from Brazil.</h2>
-
-###
-
-<h2 align="left">📊 My GitHub Stats:</h2>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Grolla05.Grolla05&"  />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Felipe!;Eng.+Controle+e+Automa%C3%A7%C3%A3o;Developer+%26+Maker" alt="Typing SVG" />
+  </a>
+  <h3>Estudante de Engenharia na PUC-Campinas 🇧🇷</h3>
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Grolla05.Grolla05" alt="visitor badge"/>
+</div>
+<div>
+  <div align="center">
+    <a href="#sobre">Sobre Mim</a> •
+    <a href="#techs">Tech Stack</a> •
+    <a href="#stats">Stats</a>
+  </div>
 </div>
 
-###
+---
+
+<div id="sobre">
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <h2>👨🏻‍💻 Sobre Mim</h2>
+        <p>
+          Atualmente estou no 4º semestre de <b>Engenharia de Controle e Automação</b>. 
+          Minha paixão é conectar o mundo físico ao digital, seja através de sistemas embarcados ou desenvolvimento web fullstack.
+        </p>
+        <ul>
+          <li>🔭 Projetos atuais: <b>ESP32 e IoT</b></li>
+          <li>🌱 Estudando: <b>Next.js</b></li>
+          <li>🎓 Universidade: <b>PUC-Campinas</b></li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+        <p><b>Vamos conversar?</b></p>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
+          <a href="mailto:SEUEMAIL@GMAIL.COM"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30"></a>
+          <a href="https://instagram.com/SEUUSER" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="30"></a>
+        </div>
+        <br>
+        <p><sub>🎧 Ouvindo agora:</sub></p>
+        <a href="https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1&width=300" width="300">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div id="techs" align="center">
+  <h2>🚀 Arsenais Tecnológicos</h2>
+  <p><b>Embedded & Low-Level</b></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,python&theme=dark" />
+  <p><b>Web Development & Database</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,sqlite&theme=dark" />
+  <p><b>Tools & IDEs</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux&theme=dark" />
+</div>
+
+<br>
+
+<div id="stats" align="center">
+  <h2>📊 Estatísticas</h2>
+  <div align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Grolla05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Grolla05&layout=compact&langs_count=6&theme=dracula&v=1"/>
+  </div>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Grolla05&theme=dracula&hide_border=true&v=1" alt="streak graph" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grolla05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Grolla05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grolla05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grolla05&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" />
 </div>
-
-
-###
-<br>
-<h2 align="left">🚀 Programming portifolio (skills):</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-</div>
-
-###
-<br>
-<h2 align="left">📝 Connect with me:</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-<br>
-<details>
-  <summary><h1>👨 More About Me: </h1></summary>
-  - 🇧🇷 I’m brazilian.</br>
-  - 🧑🏻 I've 19 years</br>
-  - 🎓 I’m currently studying on Pontifical Catholic University of Campinas.</br>
-  - 🖥️ I'm undergraduate in Control and Automation Engineering.</br>
-  - 🗣️ Pronouns: he/him.</br>
-  
-  </br></br>![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1)
-</details>
