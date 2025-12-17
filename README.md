@@ -21,7 +21,7 @@
       <td valign="top" width="50%">
         <h2>👨🏻‍💻 Sobre Mim</h2>
         <p>
-          Atualmente estou no 4º semestre de <b>Engenharia de Controle e Automação</b>. 
+          Atualmente estou no 3º semestre de <b>Engenharia de Controle e Automação</b>. 
           Minha paixão é conectar o mundo físico ao digital, seja através de sistemas embarcados ou desenvolvimento web fullstack.
         </p>
         <ul>
