@@ -5,13 +5,6 @@
   <h3>Estudante de Engenharia na PUC-Campinas 🇧🇷</h3>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Grolla05.Grolla05" alt="visitor badge"/>
 </div>
-<div>
-  <div align="center">
-    <a href="#sobre">Sobre Mim</a> •
-    <a href="#techs">Tech Stack</a> •
-    <a href="#stats">Stats</a>
-  </div>
-</div>
 
 ---
 
@@ -19,52 +12,43 @@
   <table border="0">
     <tr>
       <td valign="top" width="50%">
-        <h2>👨🏻‍💻 Sobre Mim</h2>
-        <p>
-          Atualmente estou no 3º semestre de <b>Engenharia de Controle e Automação</b>. 
-          Minha paixão é conectar o mundo físico ao digital, seja através de sistemas embarcados ou desenvolvimento web fullstack.
-        </p>
-        <ul>
-          <li>🔭 Projetos atuais: <b>ESP32 e IoT</b></li>
-          <li>🌱 Estudando: <b>Next.js</b></li>
-          <li>🎓 Universidade: <b>PUC-Campinas</b></li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <p><b>Vamos conversar?</b></p>
-        <div align="center">
-          <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
-          <a href="mailto:SEUEMAIL@GMAIL.COM"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30"></a>
-          <a href="https://instagram.com/SEUUSER" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="30"></a>
+        <div id="sobre">
+          <h2>👨🏻‍💻 Sobre Mim</h2>
+          <p>
+            Atualmente estou no 4º semestre de <b>Engenharia de Controle e Automação</b> na PUC Campinas.
+          </p>
+          <ul>
+            <li>🌱 Estudando: <b>Estruturas de Dados, Sistemas Dinâmicos, IA, Golang e Dart</b></li>
+            <li>🎓 Certificações: <b>CS50 (Harvard)</b> e <b>6.002.1x Circuits and Electronics (MIT)</b></li>
+          </ul>
+          <br>
+          <a href="https://open.spotify.com/user/feextreme_gamer">
+            <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=feextreme_gamer&amp;count=3&amp;width=380&amp;time=0&amp;duration=1" alt="Spotify recently played" width="480" />
+          </a>
         </div>
-        <br>
-        <p><sub>🎧 Ouvindo agora:</sub></p>
-        <a href="https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=feextreme_gamer&count=1&width=300" width="300">
-        </a>
+      </td>
+      <td align="center" width="50%">        
+        <img src="public/4fd0c049c173c9beb5a0101a84deb6f9.gif" alt="Animação Gengar">
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
 <div id="techs" align="center">
   <h2>🚀 Stack Tecnológicos</h2>
   <p><b>Embedded & Low-Level</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi&theme=dark" />
   <p><b>Web Development & Database</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,sqlite&theme=dark" />
   <p><b>Tools & IDEs</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,notion,figma&theme=dark" />
 </div>
 
-<br>
+<h2 align="center">📊 Projetos em destaque</h2>
 
-<div id="stats" align="center">
-  <h2>📊 Estatísticas</h2>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grolla05&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" />
-  </div>
-</div>
-
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**J.A.R.V.I.S**](https://github.com/Jarvis-Project-2026/J.A.R.V.I.S) | Assistente virtual autônomo com arquitetura RAG (Ollama LLaMA 3.2) | `Python` `JavaScript` |
+| [**Solar Points**](https://github.com/Grolla05) | Iluminação pública autônoma via IoT com nós ESP32 e georreferenciamento de fluxo de pedestres | `C++` `Python` `HTML/JS` |
+| [**Simula Médias**](https://github.com/Grolla05/simulamedias) | Simulador de médias universitárias open-source ([demo](https://simulamedias.vercel.app)) | `TypeScript` `React` `Vite` |
+| [**YTDownloader**](https://github.com/Grolla05/Instalador_videos) | Downloader local de vídeos/áudios do YouTube com UI Claymorphism | `Python` `Flask` `yt-dlp` |
