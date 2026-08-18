@@ -50,7 +50,7 @@
 <br>
 
 <div id="techs" align="center">
-  <h2>🚀 Arsenais Tecnológicos</h2>
+  <h2>🚀 Stack Tecnológicos</h2>
   <p><b>Embedded & Low-Level</b></p>
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,python&theme=dark" />
   <p><b>Web Development & Database</b></p>
