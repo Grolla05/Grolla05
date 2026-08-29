@@ -28,7 +28,7 @@
         </div>
       </td>
       <td align="center" width="50%">        
-        <img src="public/4fd0c049c173c9beb5a0101a84deb6f9.gif" alt="Animação Gengar">
+        <img src="https://github.com/Grolla05/Grolla05/blob/4235a0c02b855fbff369dc7817dc5e3c091ac91c/public/4fd0c049c173c9beb5a0101a84deb6f9.gif" alt="Animação Gengar">
       </td>
     </tr>
   </table>
