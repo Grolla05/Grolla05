@@ -37,7 +37,7 @@
 <div id="techs" align="center">
   <h2>🚀 Stack Tecnológicos</h2>
   <p><b>Embedded & Low-Level</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino&theme=dark" />
   <p><b>Web Development & Database</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,sqlite&theme=dark" />
   <p><b>Tools & IDEs</b></p>
