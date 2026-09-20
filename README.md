@@ -48,7 +48,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**J.A.R.V.I.S**](https://github.com/Grolla05/J.A.R.V.I.S) | Assistente virtual autônomo com arquitetura RAG (Ollama LLaMA 3.2) | `Python` `JavaScript` |
+| [**J.A.R.V.I.S**](https://github.com/Grolla05/J.A.R.V.I.S-Just-A-Rather-Very-Intelligent-System) | Assistente virtual autônomo com arquitetura RAG (Ollama LLaMA 3.2) | `Python` `JavaScript` |
 | [**Solar Points**](https://github.com/Grolla05) | Iluminação pública autônoma via IoT com nós ESP32 e georreferenciamento de fluxo de pedestres | `C++` `Python` `HTML/JS` |
 | [**Simula Médias**](https://github.com/Grolla05/simulamedias) | Simulador de médias universitárias open-source ([demo](https://simulamedias.vercel.app)) | `TypeScript` `React` `Vite` |
 | [**YTDownloader**](https://github.com/Grolla05/Instalador_videos) | Downloader local de vídeos/áudios do YouTube com UI Claymorphism | `Python` `Flask` `yt-dlp` |
