@@ -18,7 +18,7 @@
             Atualmente estou no 4º semestre de <b>Engenharia de Controle e Automação</b> na PUC Campinas.
           </p>
           <ul>
-            <li>🌱 Estudando: <b>Estruturas de Dados, Sistemas Dinâmicos, IA, Golang e Dart</b></li>
+            <li>🌱 Estudando: <b>Estruturas de Dados, Estatística & Análise de Dados, IA, Circuitos elétricos</b></li>
             <li>🎓 Certificações: <b>CS50 (Harvard)</b> e <b>6.002.1x Circuits and Electronics (MIT)</b></li>
           </ul>
           <br>
