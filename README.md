@@ -55,6 +55,15 @@
 
 #
 
+---
+
+<div align="center" style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api?username=Grolla05&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api/top-langs/?username=Grolla05&layout=compact&langs_count=8&theme=dark" />
+</div>
+
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Grolla05/Grolla05/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Grolla05/Grolla05/output/github-contribution-grid-snake-dark.svg">
