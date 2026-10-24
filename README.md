@@ -49,7 +49,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**J.A.R.V.I.S**](https://github.com/Grolla05/J.A.R.V.I.S-Just-A-Rather-Very-Intelligent-System) | Assistente virtual autônomo com arquitetura RAG (Ollama LLaMA 3.2) | `Python` `JavaScript` |
-| [**Solar Points**](https://github.com/Grolla05) | Iluminação pública autônoma via IoT com nós ESP32 e georreferenciamento de fluxo de pedestres | `C++` `Python` `HTML/JS` |
+| [**Solar Points**](https://github.com/Grolla05/Project_SolarPoints) | Iluminação pública autônoma via IoT com nós ESP32 e georreferenciamento de fluxo de pedestres | `C++` `Python` `HTML/JS` |
 |  |  |  |
 |  |  |  |
 
