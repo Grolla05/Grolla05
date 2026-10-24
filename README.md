@@ -59,9 +59,9 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Grolla05&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Grolla05&hide_border=true&theme=dark" alt="streak stats" />
-  <br/>
   <img width="60%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Grolla05&layout=compact&theme=github_dark&hide_border=true" alt="top langs" />
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Grolla05&hide_border=true&theme=dark" alt="streak stats" />
 </div>
 
 ---
